@@ -18,16 +18,32 @@ module MsgApi
       def conversations
         #generate encrypted token for the current user
         RequestStore.store[:token] = Token.generate_token_for(self)
-        MsgApi::Conversation
+        $api.get('conversations')['conversations']
       end
       
-      # def start_conversation(recipients, title, body )
-      #     RequestStore.store[:token] = Token.generate_token_for(self)
-      #     member_maps = [recipients].flatten.map {|r| {member_type: r.class.to_s, member_id: r.id} }
-      #     params = {title: title, member_maps_attributes: member_maps, messages_attributes: [{body: body}]}
-      #     $api.post('conversations', conversation: params)
-      #     # Conversation.create(title: title, member_maps_attributes: member_maps, messages_attributes: [{body: body}])
-      #   end
+      def start_conversation(recipients, title, body )
+        RequestStore.store[:token] = Token.generate_token_for(self)
+        member_maps = [recipients].flatten.map {|r| {member_type: r.class.to_s, member_id: r.id} }
+        params = {title: title, member_maps_attributes: member_maps, messages_attributes: [{body: body}]}
+        $api.post('conversations', conversation: params)
+      end
+      
+      def get_conversation(conversation_id)
+        RequestStore.store[:token] = Token.generate_token_for(self)
+        $api.get("conversations/#{conversation_id}")['conversation']     
+      end
+      
+      def send_message(conversation_id, body)
+        RequestStore.store[:token] = Token.generate_token_for(self)
+        params = {body: body}
+        $api.post("conversations/#{conversation_id}/messages", message: params)        
+      end
+      
+      def leave_conversation(conversation_id)
+        RequestStore.store[:token] = Token.generate_token_for(self)
+        $api.delete("conversations/#{conversation_id}")        
+      end
+      
       
     end
   end
