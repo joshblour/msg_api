@@ -4,7 +4,9 @@ require 'api/my_middleware'
 require 'logger'
 
 if Rails.env == 'development'
- url = 'http://localhost:3001'
+ # url = 'http://localhost:3001'
+ # for now just use the same url
+ url = 'http://msg-api.herokuapp.com'
 else
   url = 'http://msg-api.herokuapp.com'
 end
