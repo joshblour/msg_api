@@ -7,11 +7,11 @@ require "msg_api/version"
 Gem::Specification.new do |s|
   s.name        = "msg_api"
   s.version     = MsgApi::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of MsgApi."
-  s.description = "TODO: Description of MsgApi."
+  s.authors     = ["Yonah Forst"]
+  s.email       = ["yonaforst@hotmail.com"]
+  s.homepage    = "not available yet"
+  s.summary     = "gem to interact with msg_api service"
+  s.description = "adds acts_as_msg_api method for models"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
   s.test_files = Dir["test/**/*"]
