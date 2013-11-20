@@ -3,9 +3,8 @@ require "faraday_middleware"
 require 'api/my_middleware'
 require 'logger'
 
-url = MsgApi.const_defined?(:URL) ? MsgApi::Url : 'http://msg-api.herokuapp.com' 
 
-$api = Faraday.new(:url => url) do |conn|
+$api = Faraday.new(:url => ENV['MSG_API_URL'] || 'http://msg-api.herokuapp.com' ) do |conn|
   conn.use MyMiddleware
   conn.use FaradayMiddleware::EncodeJson
   conn.use Faraday::Response::Logger, Logger.new('faraday.log')

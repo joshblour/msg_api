@@ -1,0 +1,261 @@
+# Logfile created on 2013-11-20 16:30:14 +0100 by logger.rb/31641
+I, [2013-11-20T17:33:13.213409 #26763]  INFO -- : get http:/conversations
+D, [2013-11-20T17:33:13.213562 #26763] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"B8XFPgsJG8oJp0ztpBJWTK2iI1pm6Dz643S1O6rI3QTQHpUWRQIP90zCpP0-Y3TII3y7lRZLWCty9oMcUVVqW38QaJwdtAndPk9-GLhEEtVEhW6H6GlYs7fOhYyfqsGNbdDXdorBsCAX5pv61pPhWW4UVaYywZNTZlrScnBk1C4=\""
+Content-Type: "application/json"
+I, [2013-11-20T17:47:36.440820 #26930]  INFO -- : get http://msg-api.herokuapp.com/conversations
+D, [2013-11-20T17:47:36.440981 #26930] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"wA75TNPvssFRK-5-9yUPF0R2JUb0dPZKfgdeh4J9aRatwl7gNICtMlA2_V5-oINaVuC2U3jJDwhTk75g1-fz-lyYfKO9z260eQBMazhlYOi1BOMYRnSONFUVXXbeDI8d9MH0VI3TsdCC0KIoTcosk6Edtfz2rpz4QynQRKaUIWU=\""
+I, [2013-11-20T18:09:15.681226 #27170]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:09:15.681349 #27170] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"D44u2J6lgwEUjpSI05odApyggAqOMvmQcWxM6TpNVEm17uhglUXfC8ugmVD5YoMgbGt8XVpbakcQ_7ZyCT7WkmAeiD8ojxJQ6myJ0K72J_nTDLIRQN8scsVVu1aw9UD_YHoRoA71RdgkLxNgOAgWke2G1PMOuxzCBo4y1DfBdic=\""
+I, [2013-11-20T18:09:39.392609 #27176]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:09:39.392744 #27176] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"jXl5bq25DVOfAS_YQ3sPZGvmn7NCM7gLffLqkd-kxq9PjyhMkq6_6jW9FlU79nbAqrYRcCmLD7wRoniGV82SsJ-mPVubFOJYMu9qqxpck7r81eQ1J9umsZ0t5DqnPEmiZYsZ-txJvBFCmu1Nss4QH3YCEy8eTeHYos98-y588Fs=\""
+I, [2013-11-20T18:09:39.395524 #27176]  INFO -- Status: 200
+D, [2013-11-20T18:09:39.395633 #27176] DEBUG -- response: 
+I, [2013-11-20T18:12:18.494987 #27203]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:12:18.495122 #27203] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"XwnYnCCQymYR81s86yP4ottSVr6J4jO1d3y3WMSM5BnTiEM0IZ0yOXIk_g5qNX3BmFLbKItnRfFoUydX-bMSErrVtDtfZKA3537lAV-CMf_P3P50-8yLgCCU4O2A4NQR2u4at_fJ9IWlCk2Sd1xB7ap8a_CVuNUVJgwAgHiKqSs=\""
+I, [2013-11-20T18:12:18.498512 #27203]  INFO -- Status: 200
+D, [2013-11-20T18:12:18.498663 #27203] DEBUG -- response: 
+I, [2013-11-20T18:15:12.879044 #27229]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:15:12.879168 #27229] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"X8-CaFV847c6TkBFj0QohjHpnGnQs96psoRNiI-BImTboiwg80G_NPJRY858yxWlt5-XW0ueOEUpuD8xak5v9Od-FLkKRnxYbITpjSGKb0At3gJ4iR03bV3hO9BNreP3SFiYXJGSk83rs-bi8rqcsRuaWASlNDlOEuIQ3CzxW-o=\""
+I, [2013-11-20T18:15:12.882012 #27229]  INFO -- Status: 200
+D, [2013-11-20T18:15:12.882106 #27229] DEBUG -- response: 
+I, [2013-11-20T18:15:12.884703 #27229]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:15:12.884795 #27229] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"IToe5lMERBMGpubHOijJ7sn6sg4l-WTLmKFsJ-QwwrV_-s2gG86-j4HYYdtyLj8osvRHZUMksrvvAL2lm8fkZJgSOGW7noiEL1Nn9RX3LRjuWBh5kv2qeYy3Tk1bo7QjKia0cF-jn-txD2u6Qvh-9AcbDS9MhYd57Q5hMhmYGQ0=\""
+I, [2013-11-20T18:15:12.886732 #27229]  INFO -- Status: 200
+D, [2013-11-20T18:15:12.886819 #27229] DEBUG -- response: 
+I, [2013-11-20T18:16:18.142098 #27259]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:16:18.142219 #27259] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"rbbCjchPzVjobi8rG7sVApVgG7avaxVwD_Wk5vJUjLc_QQ3rlS4fo1UG82g2TroHLT9EyH14kqFy-zvDtPVwHjhhgTSp3KElWaaJInH1cXrSd9XS6FAKDnsEBIORAzV8LKxZVG0UAYgvPRpEpgHu7W0eogOtqES1Vj6kEpwW96E=\""
+I, [2013-11-20T18:16:18.144845 #27259]  INFO -- Status: 200
+D, [2013-11-20T18:16:18.144930 #27259] DEBUG -- response: 
+I, [2013-11-20T18:16:18.147321 #27259]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:16:18.147410 #27259] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"USdUwF6F6NX956a9hZMG4ymS492w81-P-tweaBLBy5c9bSasJ7gjKIts1Cg7T9Kp11tMxIiFDgnk2o8YQXu4FK2FOmw-fMs4xsb4lELi7e1BwHSywIGRHZW-68NLYGpUin1VxXIT77vAmIxMZOet1lyx5vzcLdiY-Vtws7mbj-g=\""
+I, [2013-11-20T18:16:18.149365 #27259]  INFO -- Status: 200
+D, [2013-11-20T18:16:18.149492 #27259] DEBUG -- response: 
+I, [2013-11-20T18:16:30.244085 #27267]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:16:30.244206 #27267] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"P4FfVBWSl-rMXmGTW_AwktovTlbSj6pCRme_Zg2G7tGgrVZ9e74bXBs36V1hoIkyQ8EOGFPdopW_YOe1d0cd6q47y6Kl7EG5KadZsCOd3eJDYVgdh_AnpLTVCldECR-j-Za3PDV6ez6-dKg108HAMttmrzIbVfIL66s1GnaBR_w=\""
+I, [2013-11-20T18:16:30.246933 #27267]  INFO -- Status: 200
+D, [2013-11-20T18:16:30.247034 #27267] DEBUG -- response: 
+I, [2013-11-20T18:23:36.444883 #27500]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:23:36.445010 #27500] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"LuxtwJjN6oRCNruURpf85HFfwZehTH6P-JZYEVOf96jZGhSMNcnhEy02uupTSrTOwSh0ZEQXwD0R7MZxXnPTsc_ceCtsfuG5rYBBJuevPXs86agQs51GtMkUCCLuavkQ7HR9hLMWnSu944OqneV9p8taG9Q1R-O97y6-ixQ-ZeU=\""
+I, [2013-11-20T18:23:36.448096 #27500]  INFO -- Status: 200
+D, [2013-11-20T18:23:36.448217 #27500] DEBUG -- response: 
+I, [2013-11-20T18:23:36.450856 #27500]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:23:36.450948 #27500] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"H3yGoIR0ksq5C4_69jB7nJu-UEDsWBADvlxE-_Y7UoYW-RbS_QRHCe75fSLN9SQuZJA3bE7Q-1OcCh9j_q-LmfaBx-7G_3_p8czyQIHFqhOAZvnJJiLJYESQcW4_47RDFWtEKnhfwSNf6LNIMwwJhLemKD0StKB0m-ne_TfEjt0=\""
+I, [2013-11-20T18:23:36.452852 #27500]  INFO -- Status: 200
+D, [2013-11-20T18:23:36.452939 #27500] DEBUG -- response: 
+I, [2013-11-20T18:26:40.842901 #27546]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:26:40.843022 #27546] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"wbfQ2ANg2lpSvn82IhC7iaiicngLu2ZOtD3Mg6gILZ2lfFRlkMQVjZLb7BPB5eVmA0QdjwkP00ExLCAjjvAqC8Nxa05pgUxW3oxiQecrUmHMlNdgCwj6vlvDAUKdqJDTG45JbeYL7B25e_Vl_fMNXAw19gHPa7KUJLjxQW8EytQ=\""
+I, [2013-11-20T18:26:40.845952 #27546]  INFO -- Status: 200
+D, [2013-11-20T18:26:40.846202 #27546] DEBUG -- response: 
+I, [2013-11-20T18:27:59.593645 #27563]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:27:59.593762 #27563] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"2sp3V8ptni2o08bJ4rYwCy4iMExtLLY8zSUaXXAXUEX0zo3mcJf_AkqkiqD-wPeBKKWaLukjzH_nUm4Q7vMi0RDDUjTcZe6pqUJ1BxUYqjRlHeDh05HpYE2rEAKe3OxxK8YCVI8AToFXSb65ROQ1o7V7YOL6r_GHzbjDAod4HMA=\""
+I, [2013-11-20T18:27:59.599579 #27563]  INFO -- Status: 200
+D, [2013-11-20T18:27:59.599835 #27563] DEBUG -- response: 
+I, [2013-11-20T18:27:59.605919 #27563]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:27:59.606021 #27563] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"0vYent8CxaymsRzVjdbqGvtLYoLveo0AtqZMLibt_w9l_Tg5JiWd8Eyx6Al4VMHd9vZ-xDp2yN__aXO6MVZnNyTtc2mRg5Nyjfxw08igUQv3vxbLZVb7vo05981cotT5jzIFV5s9Fta5k-TNiYYIRTLGL1SKdWuX9u180Ap1UWE=\""
+I, [2013-11-20T18:27:59.608230 #27563]  INFO -- Status: 200
+D, [2013-11-20T18:27:59.608363 #27563] DEBUG -- response: 
+I, [2013-11-20T18:28:20.739469 #27573]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:28:20.739615 #27573] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"KkG0E1NwAfpDsox4LJi5010I7WP1BTIBWorL3n7Ittyi0fXM6Js30ymuGrqnvKIb_VGxi5iS4-AnPUnpwEPf13bwdbRf66mzcTvu1zwgTMT5nhA_vgpl0yX_mDVG0oIoM71MYSM5yaWAg6-NFprIY-RfkZW61u-NLd3SYPFKCII=\""
+I, [2013-11-20T18:28:20.743071 #27573]  INFO -- Status: 200
+D, [2013-11-20T18:28:20.743216 #27573] DEBUG -- response: 
+I, [2013-11-20T18:28:20.750368 #27573]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:28:20.750484 #27573] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"NF7Cbx-eLzrG7JMO7vejAhAkuvyfSeMKBO6avr4X7isjyt10uVh1JmJe2wASZZcMQEPFLDKfX__FT8sGqPGAE4ThdEdI66e-oVHG1vMbuuMyzv4EIdHi_0JCqN7wbo7UA7oQ66PXVR5o88ysIxIaTq82XTD7P1czkybYzQGd1SM=\""
+I, [2013-11-20T18:28:20.753603 #27573]  INFO -- Status: 200
+D, [2013-11-20T18:28:20.753743 #27573] DEBUG -- response: 
+I, [2013-11-20T18:28:41.752200 #27578]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:28:41.752409 #27578] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"11PYV5odaQziVCmVAQQwK5i8TcNdqlDvAjStoSYS2GRiaOI4XuyhMYt7yst569feclTQYKtUzuCZD0xCEwIhd-TwTlU-TWYSEiVsxMbBJ2vlJtDcf6yubaj9bLaACxzSRCblJo1nMR4WVxapRf4RTSRXMq8jrtvV5Ng9wvVRJqY=\""
+I, [2013-11-20T18:28:41.756666 #27578]  INFO -- Status: 200
+D, [2013-11-20T18:28:41.756816 #27578] DEBUG -- response: 
+I, [2013-11-20T18:28:41.763893 #27578]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:28:41.764027 #27578] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"HwlILna8YKDRKq6zCQafsBHXbbgWokuwI5buYAxVXlq41QLj5FofNtyL86OEEo5ZdE2cG3CHNLoGHYjRXc6D3t3zI7fDc94robEW2BA1fmyZr0ug9qkr5DsLXcatVKekNtzfY-gldffD9_NCNelXxnTFBCeW19VlAdFp_XDhb2w=\""
+I, [2013-11-20T18:28:41.767084 #27578]  INFO -- Status: 200
+D, [2013-11-20T18:28:41.767215 #27578] DEBUG -- response: 
+I, [2013-11-20T18:29:02.802903 #27587]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:29:02.803169 #27587] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"clL6TZlCABAqKt1W9oCiHOtTi2mVRSThwBuoyG6ViPfTCD2P8Fc43r1TpQOtHTw2DxAgbZswgGQ16fLZSgD85iHfskpfMTHmupwZ2_rU8n7VJNq8UqRdSJ0kCYDRBhiKEEOIVRdZ_NaeJrpC6Lyu5iEAgiB-KRR0-zOO3y5wqDE=\""
+I, [2013-11-20T18:29:02.807389 #27587]  INFO -- Status: 200
+D, [2013-11-20T18:29:02.807592 #27587] DEBUG -- response: 
+I, [2013-11-20T18:29:02.814052 #27587]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:29:02.814157 #27587] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"TDtHwTH9ijKxEkRgKW1a-eHvXM_FX-tPMA6eQNVG7JRFH2j-K5SWMfSgphBHmn19F2-x0j4ckNzPBk5qiAPutrgrrFr2YXwjcP_OL5nfhzgGN41Hw24OVUpztnrrCoh2U0DZlq5X5oZO8SYBLr_84qHmaqtM2XJv4-PYTTF0SJ4=\""
+I, [2013-11-20T18:29:02.817019 #27587]  INFO -- Status: 200
+D, [2013-11-20T18:29:02.817241 #27587] DEBUG -- response: 
+I, [2013-11-20T18:29:15.712328 #27596]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:29:15.712494 #27596] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"tJXHgEXnEjorsdcm831KSGax-E33K9ae3Lb7XimL-8-IA44bQ6Zopf0TOaoF1qDY-D-U60Y9cafzvtzjeD5Jr2NdCnZpZKEykmbAPEihqJOLji5NoXf8TkrWwriGcGOKnnrvXYz8Q-Ap4Y1rRyFwRhSYeK5EJCPgPLBKYjRCWWc=\""
+I, [2013-11-20T18:29:15.717207 #27596]  INFO -- Status: 200
+D, [2013-11-20T18:29:15.717385 #27596] DEBUG -- response: 
+I, [2013-11-20T18:29:15.728332 #27596]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:29:15.728495 #27596] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"dKVi1Mana35uiTG9pWYQfebWsmI1VXXvgRbPw4-pAAq47TMEb0kyFv6DJ-cDeBruaFduA5i8rRHh9PQZOL3_nOcZoLxBsjRYNAGC6ZttV2zCA0Qx87ebnzdMiMmj0NzGVp2aB4LcVwinmNDbIbN8chufoJvWtVu3K32cJplVO6c=\""
+I, [2013-11-20T18:29:15.732799 #27596]  INFO -- Status: 200
+D, [2013-11-20T18:29:15.733005 #27596] DEBUG -- response: 
+I, [2013-11-20T18:32:37.078880 #27785]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:32:37.078985 #27785] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"lRI0OGjsmK_qArSRa-m1aTMLtYW_6eit1JVgKCh_YcCfjfPmat4Ytof7ARpvWrHJJgbif3jn8kbRw0O_STQ_YIDSUCzjxQcxqsR5Kp5deskj-Y23mPLjufYum11IpwM3n2LgK0JMuDGVC3RFDyIxov8dGXuA3VkwgaWuuty2tsc=\""
+I, [2013-11-20T18:32:37.083448 #27785]  INFO -- Status: 200
+D, [2013-11-20T18:32:37.083590 #27785] DEBUG -- response: 
+I, [2013-11-20T18:32:37.089426 #27785]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:32:37.089525 #27785] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"o0iRP3JAoS9EsFsMFsAWumsXu86WjrI9_-mwE0uJ1I3REF7eVTKDdQ70r_slM9ZxgDwJNWbDBAYI4Yfnd_AFPb0BoJ4nV5h3cR1D2MjBuQxxlOreVlVHMMwO3L0nYSa4lMuhtGq2sI5YI-Q8J1-jAjTyINgofiFp8JGErdId4R8=\""
+I, [2013-11-20T18:32:37.091696 #27785]  INFO -- Status: 200
+D, [2013-11-20T18:32:37.091842 #27785] DEBUG -- response: 
+I, [2013-11-20T18:34:09.281397 #27800]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:34:09.281523 #27800] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"Q_XjefO_N6shPrzvnAplagmW32S3IJTcjJngXpZV28ZuBpF4YZR0SezpxS5cwgCfWZKe_QwS7E4Hghytiw2vGqTm3ECT7CqEJU5OhXQ-u6CiK0F4PezWHUr3xSnGq8AKq_GH-6dRdNo_LvO6J2i1gTXkLfYhHnSDyAWPxLBJrQ4=\""
+I, [2013-11-20T18:34:09.284967 #27800]  INFO -- Status: 200
+D, [2013-11-20T18:34:09.285141 #27800] DEBUG -- response: 
+I, [2013-11-20T18:34:09.292117 #27800]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:34:09.292260 #27800] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"nL10udj7hdebmD10mz_ZQH9w4nUXPglxTPGpqOFUi3TqPOzqBfd60mbsS3UN6oImzkNP4UOUrCkr2Q5o59qVapa_gb_R27x9TNuGFIzIp_-WYxz9NUfhGuSBKAg_cn3QZxdFl-a5LqPO8s5pLyW1MnC_lZJ9yTc-g1tUcvZh7yI=\""
+I, [2013-11-20T18:34:09.295501 #27800]  INFO -- Status: 200
+D, [2013-11-20T18:34:09.295671 #27800] DEBUG -- response: 
+I, [2013-11-20T18:34:39.274155 #27813]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:34:39.274263 #27813] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"zwutI8Aq9Mk-0J0jxiX4vfsKguSAXqWrNYZFyXvD9Tgo2UMVzBjMJwI_prxbTQQvFjnqoeJ7EFI-0uxSme9Qs5DYmZSkBL_JGodUBgjFqaekRmqkJzuBvJjJmRSHxPIUAYhzcO_n2hhiEckUG0AAT-8GTYEX1m0NGibs5yJwv7k=\""
+I, [2013-11-20T18:34:39.279514 #27813]  INFO -- Status: 200
+D, [2013-11-20T18:34:39.279713 #27813] DEBUG -- response: 
+I, [2013-11-20T18:34:39.286047 #27813]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:34:39.286146 #27813] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"xVawiDI7qDle80f9eM7YRmLJxCMPNthOLhp7KOlaHbvNiFJnDy8B0gteipbbZ2izYXWaNYSK2ejNse1c6IoaetFZTvTDn1jLAcaS0Q1I2DZmxUTUOJ65hO78_WpNr8SR9xyaZP_UqXXOQl0-cc_cdWZmJcBYAyaFnGgy_B6InSo=\""
+I, [2013-11-20T18:34:39.288647 #27813]  INFO -- Status: 200
+D, [2013-11-20T18:34:39.288813 #27813] DEBUG -- response: 
+I, [2013-11-20T18:35:17.989107 #27824]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:35:17.989279 #27824] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"l4ZI_1y8MoylLr6_L7YUtJpy_PQDNFYhW49L2GlLABBFZ5uxu7Ycn8VdMP6P15Z66r1cTWpd9B5fmTuU5575q7elKzl0PykrTZtHWxAVW2ryMIvzDXXBOU26EuSn93Cd7JDlgWw937IWaGqU-Ov66fsih3pMJ7QMZc6og4EH6rQ=\""
+I, [2013-11-20T18:35:17.993366 #27824]  INFO -- Status: 200
+D, [2013-11-20T18:35:17.993531 #27824] DEBUG -- response: 
+I, [2013-11-20T18:35:18.002338 #27824]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:35:18.002506 #27824] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"qrurkWBAgkyryrcNaH3wv_czXrDoBICAeTrvPCR0rZHD0q103s6ACc_xRyWlGoTE00mIBBe4OxSdVAakTmSRi6wBw1qoCBHRkXKvWCxJT3nm98oeQ2Hd3KDB--7SPsQEFauiPpCpFFdsp1gmhjM_0vJqruHKbbg3MwzWVQp7xwA=\""
+I, [2013-11-20T18:35:18.005793 #27824]  INFO -- Status: 200
+D, [2013-11-20T18:35:18.005965 #27824] DEBUG -- response: 
+I, [2013-11-20T18:36:18.789814 #27997]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:36:18.789944 #27997] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"1q-SGrXIHXtmoBx3D3LAIU0MQXZpSwZt1p2Cu8IKuH2bVDadysXC0A3miDV3wotfGSW_iSNg3VJS_OcBvXjOAp7UqjiCGLpPwfxsebJgYuOlXEEbXQYDlk64S_V6hTvPJ1JqobJBjhuEGvzjGYOtBVkANwpRdWfxqTzU2fX6J2I=\""
+I, [2013-11-20T18:36:18.793162 #27997]  INFO -- Status: 200
+D, [2013-11-20T18:36:18.793331 #27997] DEBUG -- response: 
+I, [2013-11-20T18:36:18.800928 #27997]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:36:18.801046 #27997] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"Eten9t-8hsZ0hJa61c8-OZoy9SwiMOmYtKzwdZhJ1OMQOdU0DSxmVLAX37uCjGiMzgK5zAGD2Hv796wgC0hNUG7rIYlesHd5X6tTG1rFfqh33QZ7_x_nCE6Loq-RJmVV95mqjZif_tTSJCo7-ech8EvCfBuSv5YkgP-mBt2B4nU=\""
+I, [2013-11-20T18:36:18.804429 #27997]  INFO -- Status: 200
+D, [2013-11-20T18:36:18.804603 #27997] DEBUG -- response: 
+I, [2013-11-20T18:36:34.027838 #28006]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:36:34.027959 #28006] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"Wh0X9s4Rc4PwICwCViHh474sDMODbSYjxYDrl1fGk-2_7v4yX5aU6aMrsyGMMRXYsc--lEPiRArvyceVCUeWcf1-yoCM8riNVK5oDSYi0NkNQWBoxD4jSbn4x494CgwSI2-yFFK_tSVhbH7wYoHLD7JSBbUhLXYtQcFKkPxomUw=\""
+I, [2013-11-20T18:36:34.031709 #28006]  INFO -- Status: 200
+D, [2013-11-20T18:36:34.031869 #28006] DEBUG -- response: 
+I, [2013-11-20T18:36:34.039064 #28006]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:36:34.039229 #28006] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"W6OErBfEcWOINLvnPtHMNsHDuWQXG8VoNntM3KK855FUX-x8iOXsSB7-YolnN0gMppt5YCm16xjV-dyMnWK_0HnGofz6z0NPjUzPQA8rmQxBCAxSSeu8yK5hMykhjmAl9EZYR6lB-UV0u2PW6_znKWbszhB-QqpHmBAxs_cos_w=\""
+I, [2013-11-20T18:36:34.043240 #28006]  INFO -- Status: 200
+D, [2013-11-20T18:36:34.043448 #28006] DEBUG -- response: 
+I, [2013-11-20T18:38:03.186654 #28030]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:38:03.186843 #28030] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"c39FRhkOJl4qrDOASzYYcwfMVYs_kXi2ugwgJtty0_0JhtDUrghfglg1D1_giR9SKhNLqY8gwHdrnGJw9eFYsSKqUz9HAn_7KLqlCuz_l6eOrRaB9jVuGTqysp9soz1LJbDockf-4nleTtW7v4qrVq8b9W0hJdZ_b3OdWwHLXIo=\""
+I, [2013-11-20T18:38:03.191049 #28030]  INFO -- Status: 200
+D, [2013-11-20T18:38:03.191263 #28030] DEBUG -- response: 
+I, [2013-11-20T18:38:03.198920 #28030]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:38:03.199089 #28030] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"M6Ukr_YTBJLUs02z_-Fbu5jC--fFPmmvbgveQyq9pWCeclVjm1uZmUyAYafIP8QywOKo11eG0aSPuKDMDZZVxNZIH89PyROXcJuKGWAeqZEqIYQAb4eeaOslB2wPOC5QzNg-u24H3o_H7sO6UhehA0Da8nF9Jvx9qxY2KZqANMM=\""
+I, [2013-11-20T18:38:03.203808 #28030]  INFO -- Status: 200
+D, [2013-11-20T18:38:03.204015 #28030] DEBUG -- response: 
+I, [2013-11-20T18:40:41.520193 #28057]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:40:41.520385 #28057] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"s0eBLvIAINfhQCMWIn_l8PVGXtrEeOWXbYO5MA4JX13BLDm3W7Tn3QKgT1BPgNC7u2T5r4Uagcoh_jc7GTZW82MibCVUiUpATk42X1IJLWDyHYp3LVnLbcwEQ49dXp-MBzZ8K0lK5ip5LLHzFEJ8nqi-TbqQW3xOAd3ttWVe-rs=\""
+I, [2013-11-20T18:40:41.525156 #28057]  INFO -- Status: 200
+D, [2013-11-20T18:40:41.525334 #28057] DEBUG -- response: 
+I, [2013-11-20T18:40:41.532881 #28057]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:40:41.533052 #28057] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"relB9fEGcY_6tsKV6AIgmb9V9TRibTNnLu6NOgfjO253N7-JV8M7iG5mX7NRQGrdRQCgWFVzLZiLjMdl5zxIohA-FAcUWKAnTFBn4KeB0nCMZfpr3ulplb-6exRruRBbNY1l2LzlI7miFhzGR03xRsiue4vYvQIat9xDBXASIPs=\""
+I, [2013-11-20T18:40:41.537262 #28057]  INFO -- Status: 200
+D, [2013-11-20T18:40:41.537458 #28057] DEBUG -- response: 
+I, [2013-11-20T18:41:00.442362 #28064]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:41:00.442488 #28064] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"kzSVohmnpk6GvvaKnGc36EdVBa3-hb7QXcpML2z2gZEpGf5p1G4vgHtP1CUsAea9-kEKESweFWG9wb0Dp3Un5U9RFaQfHlmhz4IJpD7KbZcQ2lqDcqHKS00lklMZZLgvb5G6yTy7w4VOAlsRF8UhFtDXEotMQj_vOCt7HCt6AGE=\""
+I, [2013-11-20T18:41:00.445830 #28064]  INFO -- Status: 200
+D, [2013-11-20T18:41:00.445992 #28064] DEBUG -- response: 
+I, [2013-11-20T18:41:00.454442 #28064]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:41:00.454601 #28064] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"NSzSNy527hKXE1o102F2xz4tWVj7iV41HnYtO-0QFxbyE0C56S-UPBsc_ooJXTTqqMtCXwWlOD-BGSSCGXKuUjndXByhb7b2iJaOWxpYj4_wtwWkLFWoMBD13wPdxz846DHotNd5cHII2s1d23YQmYaKdmJ5py9AlbFu4p0yGBQ=\""
+I, [2013-11-20T18:41:00.458385 #28064]  INFO -- Status: 200
+D, [2013-11-20T18:41:00.458558 #28064] DEBUG -- response: 
+I, [2013-11-20T18:41:20.382868 #28075]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:41:20.383051 #28075] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"N4QTmA6W3EPq9AwwuMMcoINFrnWUu7I5T2ikbSdLAFYgdDahOw_RB6oWpj-H-KCmgPRgnn9Z3oj-mIyRZj2nEruUz5NtRLteGVb6bWyAx_SJ5sd-txbl8u9b2shTaihqwPPQ2o0zQhQkaRnNYilnbvtyJWX_kiKmBxZBL-soKE0=\""
+I, [2013-11-20T18:41:20.388149 #28075]  INFO -- Status: 200
+D, [2013-11-20T18:41:20.388334 #28075] DEBUG -- response: 
+I, [2013-11-20T18:46:18.318731 #28144]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:46:18.318870 #28144] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"Z9bfU80Ph8bGtdLSor24NdWye5XYU1ieXqn-fQ7kHjUX9082UbaMOy1i2lUo4ebgm12xrkRn5drNqEBjvJJkGbj3gEshznVIrV6MFQ0PQultpL8E-mWEO3yW0tL-SN14sJoCRPwC5gjyKcdDECzvDh-iiVJxuYDI6RPwezhMCgg=\""
+I, [2013-11-20T18:46:18.323586 #28144]  INFO -- Status: 200
+D, [2013-11-20T18:46:18.323780 #28144] DEBUG -- response: 
+I, [2013-11-20T18:46:28.168438 #28149]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:46:28.168606 #28149] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"CC5eyKwDMubyNDZw_0tx_1vKkCH00Bj6gULCyuCHCHK1RijQyAodimeVYnlncyk60BoMSizw8QRIgZkU1x6ipZnPN0UlHmE4mbidlXF2Ckez28qDSA8gANN3dJNgxr7fp-NgbByVY5Mc3NDLTDcwSVU9jiL5uf-Bie-9UUPN-4U=\""
+I, [2013-11-20T18:46:28.172199 #28149]  INFO -- Status: 200
+D, [2013-11-20T18:46:28.172328 #28149] DEBUG -- response: 
+I, [2013-11-20T18:49:56.872022 #28182]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:49:56.872171 #28182] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"vW41_GESA7EC2atom7BJnI8SNUlI0pFyP1jSr-wUk5VnvI_S1xmhcXz92aC3eloo3vssUnGQ3nc-TAR9xLjUi5KrSN3Y3NgS1McU_-MFSE9RFIuaDTHPiC7h382laOIckel9v52Z1A0mVhCbqgAQBs7_dBECagKMzI4LGKaXPPM=\""
+I, [2013-11-20T18:49:56.876080 #28182]  INFO -- Status: 200
+D, [2013-11-20T18:49:56.876229 #28182] DEBUG -- response: 
+I, [2013-11-20T18:50:39.063303 #28195]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:50:39.063457 #28195] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"d1uXvQwIWwU68Hj4Jx2jY0Nm_ycbpogYENGtnAXSCuXXkTEFdqzbd8IiC3HxokV1mEUhxssYKr6om530ZkunaUqLKAtOQqtFiSmZRSXScF1Bl8sGiq0z8x1Z7ZFVtpXJ2eu_4qlh509qBijoVQ1WIKuqRrm3yyqWYWVV9ggDs4E=\""
+I, [2013-11-20T18:50:39.066773 #28195]  INFO -- Status: 200
+D, [2013-11-20T18:50:39.066945 #28195] DEBUG -- response: 
+I, [2013-11-20T18:50:53.886130 #28203]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T18:50:53.886321 #28203] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"48vmoivR_QouMD1ahCq_6B1ps6O7NNk9w6bkqU0siLpxPOi1TOyxilNNx8_2aoyjh-TpUpyfdN8rovEjG0hHHb9GcxTK3a47jxXpQNjwQf9H_NrOtqMx2cHvvPXTBcnrc2whg8dHBmIuOy3K6RTg8GqyROE3aBhIcREa3GKZo58=\""
+I, [2013-11-20T18:50:53.891229 #28203]  INFO -- Status: 200
+D, [2013-11-20T18:50:53.891397 #28203] DEBUG -- response: 
+I, [2013-11-20T19:33:28.416059 #28537]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T19:33:28.416195 #28537] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"fcGPAaev41OLsdpkK0kV8RuSW3vgrnxwuZ5hXlhjmMYPpEvhjkLCzqFeOm7izAv0K14gaeDjDDsqiBxj9uwV-o_dFs8bmzza88LDYx3qa8LP0r_Wql33GRlEPBW5lGBC8bxwlmt8byZ1hhZOnAv3IEkG_gBfH-9KIZcD8dioU0w=\""
+I, [2013-11-20T19:33:28.420178 #28537]  INFO -- Status: 200
+D, [2013-11-20T19:33:28.420309 #28537] DEBUG -- response: 
+I, [2013-11-20T19:34:09.405580 #28544]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T19:34:09.405701 #28544] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"a3aiTI_iiGjfIfAn2tnwnUoKsjmqbwYMN6w5Vf20XKz0WJow5RzYl0pwp02nX2d36gYKr2mzAc-ij2hN1XX5hDW2QY58rQrDOkkP23KTorF8yKg6N4xIoLAmgEFnAYZ7hkfUhmehk3I4VCyOC7_OAKIjL72hYO9iBQR2WdbuDxI=\""
+I, [2013-11-20T19:34:09.409226 #28544]  INFO -- Status: 200
+D, [2013-11-20T19:34:09.409369 #28544] DEBUG -- response: 
+I, [2013-11-20T19:35:03.632706 #28557]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T19:35:03.632833 #28557] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"lpBvcPgFjCz0kNmIG4wV2OmzkDnqfruoPMlwZbzFkHX-hks3mLOldKi8tmoaSroWU80GUIabBwZ9hEjx7TSR1XR-NUOlz-6_AkAgVCBlsQf6FGxOo-8Z0CLelg-KRdjFbo09AvoaVlw--oeeNYCQEi4d2tAhhphVh9ob5PTR7fI=\""
+I, [2013-11-20T19:35:03.635894 #28557]  INFO -- Status: 200
+D, [2013-11-20T19:35:03.636037 #28557] DEBUG -- response: 
+I, [2013-11-20T19:36:10.049521 #28568]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T19:36:10.049671 #28568] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"v4zslBOzkD6AEaiBzCaugNQcEDWovxvAUpdK_y6mPChvtoP8oySV8IPiVz9vnmQbxVmJaGlHAIGK0GsTzzxPcr2jR1vBWUQVP9OTr5BuzJrJOKq2ezXD_DqHgtzvhXkvlaC7m7izourmWpuA9OlrcFjb30M69Az4z0JQbQoHyvM=\""
+I, [2013-11-20T19:36:10.052670 #28568]  INFO -- Status: 200
+D, [2013-11-20T19:36:10.052801 #28568] DEBUG -- response: 
+I, [2013-11-20T19:37:13.131300 #28579]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T19:37:13.131452 #28579] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"Y11ITz745JsG_goDim3jBH07GV5YUzicfW7qhSMIRo0ceoUlFNPGxzvL6yabcDA2IWmJD5p7PLcg682fExj7PdcIykj2AfQJThwUuQR1vh617UhR4m2d28EdP1ydO3b6oniPQOlChDD3LJzV4CPry6BtWM4w8MrQ7A6A7VJOlzk=\""
+I, [2013-11-20T19:37:13.134525 #28579]  INFO -- Status: 200
+D, [2013-11-20T19:37:13.134655 #28579] DEBUG -- response: 
+I, [2013-11-20T19:39:23.956120 #28601]  INFO -- : get http://test.com/conversations
+D, [2013-11-20T19:39:23.956305 #28601] DEBUG -- request: User-Agent: "Faraday v0.8.8"
+Authorization: "Token token=\"kqcYe6j_899PQAPBgHhXPeAvrkMLhhum-CogvRoV6GzRF2OueNp_RRhayjmVhE_g0md7Qqk99QbOGfwL9peGMSExAr5CzGOxxiAm0Ol2_pbSvftI8t09qlUqYuW-HFPntJY4MIeYC1V0NRICDnP_ECooxqFQenf4aoxVBzvftKo=\""
+I, [2013-11-20T19:39:23.960965 #28601]  INFO -- Status: 200
+D, [2013-11-20T19:39:23.961130 #28601] DEBUG -- response: 

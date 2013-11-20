@@ -1,1 +1,1 @@
-MsgApi::TOKEN = "bd80ce6f29063276"
+MsgApi::TOKEN = "39f71e5c42231f8a"
