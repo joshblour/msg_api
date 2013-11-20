@@ -15,16 +15,23 @@ module MsgApi
     end
     
     module LocalInstanceMethods
-      def conversations
+  
+
+      def conversations(classes = [] )
         #generate encrypted token for the current user
         RequestStore.store[:token] = Token.generate_token_for(self)
-        $api.get('conversations')['conversations']
+        if classes.empty?
+          $api.get('conversations')['conversations']
+        else
+          $api.get('conversations', includes: [classes].flatten)['conversations']        
+        end
       end
       
-      def start_conversation(recipients, title, body )
+      def start_conversation(recipients, title, body = nil )
         RequestStore.store[:token] = Token.generate_token_for(self)
         member_maps = [recipients].flatten.map {|r| {member_type: r.class.to_s, member_id: r.id} }
-        params = {title: title, member_maps_attributes: member_maps, messages_attributes: [{body: body}]}
+        params = {title: title, member_maps_attributes: member_maps}
+        params[:messages_attributes] = [{body: body}] if body
         $api.post('conversations', conversation: params)
       end
       
