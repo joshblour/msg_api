@@ -4,8 +4,8 @@ require 'base64'
 module MsgApi
   module Encryptor
   
-    def self.encrypt(string)
-      Base64.urlsafe_encode64(public_key.public_encrypt(string))
+    def self.encrypt(string, key = public_key)
+      Base64.urlsafe_encode64(key.public_encrypt(string))
     end
   
     private
